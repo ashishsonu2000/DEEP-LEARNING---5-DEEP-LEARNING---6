@@ -1,0 +1,9 @@
+# Build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Runtime data written by the app (chat log, tickets)
+EazyEdu.Web/App_Data/*.jsonl
